@@ -364,7 +364,7 @@ h6 {
 }
 
 .no-webp .main{
-  background: url(img/main/bg.jpg) 50%/cover no-repeat; }
+  background: url(../img/main/bg.jpg) 50%/cover no-repeat; }
 
 .main {
   min-height: 100vh;
